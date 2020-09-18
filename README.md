@@ -8,7 +8,8 @@ This app has the following features
 This app has error handling feature such as if you want to add your item twice then it will crash and 
 you can not add an empty list.
 
-# Technology Stack
-1.HTML
-2.CSS
-3.Angular
+**Technology Stack**
+- HTML
+- CSS
+- Angular
+
